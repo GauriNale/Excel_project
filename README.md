@@ -1,5 +1,7 @@
 # Excel_project Data analysis
 
+<a href = "https://github.com/GauriNale/Excel_project/blob/main/Screenshot%202025-03-27%20232114.png">Coffee Sales Dashboard Image</a>
+
 ## Cafe Sales Analysis -
 Using Excel tp analyze sales data for a coffee shop. The goal is to  find insights that help improve buisness performance by 
 looking at thing like what people buy, when they buy it and how busy the stores are by cleaning and organizing the data, 
