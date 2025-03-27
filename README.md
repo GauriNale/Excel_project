@@ -14,6 +14,8 @@ inform strategic decisions making and enhance business performance.The objective
 data, including product performance, peak sales periods, and revenue trends to uncover actionable insights that can improve 
 sales strategies.
 
+<a href =  "https://github.com/GauriNale/Excel_project/blob/main/Cofee%20dashboard1.xlsx">Coffee sales Dashboard create</a>
+
 ## Insights - 
 - # Busiest Days and Times - 
          The Busiest hour for coffee sales are between 8.00 am and 10.00 am , indicating strong demand during morning rush hours,
